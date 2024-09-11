@@ -1,4 +1,4 @@
-const nome = ["fernanda","giuliana","Maria Eduarda","Marcelo","Amanda","Gustavo","Gabriel"];
+const nome = ["fernanda","giuliana","Maria Eduarda","Marcelo","Amanda","joao","Gabriel"];
 
 export function aleatorio (lista){
     const posicao = Math.floor(Math.randona()* lista.length);
